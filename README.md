@@ -1,4 +1,4 @@
-Web Starter Kit
-===============
+WebStarter
+==========
 
-Simple and powerful starter kit for web development.
+Sophisticated starter kit for web development.
