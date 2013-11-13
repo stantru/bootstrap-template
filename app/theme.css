@@ -1,10 +1,7 @@
-/* BASE */
 body {
   padding-top: 20px;
   padding-bottom: 60px;
 }
-
-/* BOOTSTRAP */
 .container {
   margin: 0 auto;
   max-width: 1000px;
@@ -39,8 +36,6 @@ body {
   border-right: 0;
   border-radius: 0 3px 3px 0;
 }
-
-/* HELPERS */
 .jumbotron {
   margin: 80px 0;
   text-align: center;
@@ -63,5 +58,3 @@ body {
 .marketing p + h4 {
   margin-top: 28px;
 }
-
-/* OTHER */
