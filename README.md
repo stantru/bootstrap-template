@@ -1,4 +1,4 @@
 Tweme
 =====
 
-**Tweme** is an ultra lightweight and flexible starter theme for web development powered by [jQuery](http://jquery.com), [Bootstrap](http://getbootstrap.com), [Font Awesome](http://fontawesome.io), [cdnjs](http://cdnjs.com) and other modern web technologies.
+**Tweme** is an ultra lightweight and flexible starter theme for web development powered by [Bootstrap](http://getbootstrap.com), [Bootstrap Extra](https://github.com/tonystar/bootstrap-extra), [Font Awesome](http://fontawesome.io) and other modern web technologies.
