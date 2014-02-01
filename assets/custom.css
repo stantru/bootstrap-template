@@ -1,3 +1,5 @@
-.content, footer {
-  text-align: center;
+.id-forkme {
+  position: absolute;
+  top: 0;
+  right: 0;
 }
