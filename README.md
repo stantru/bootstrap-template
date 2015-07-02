@@ -1,4 +1,6 @@
-Tweme
-=====
+Bootstrap Template
+==================
 
-**Tweme** is an ultra lightweight and flexible starter theme for web development powered by [Bootstrap](http://getbootstrap.com), [Bootstrap Extra](https://github.com/tonystar/bootstrap-extra), [Font Awesome](http://fontawesome.io) and other modern web technologies.
+**Bootstrap Template** is a single-file starter template powered by [Bootstrap](http://getbootstrap.com), [Bootstrap Plugins](http://go.tonystar.me/bootstrap-plugins/gh) and [Font Awesome](http://fontawesome.io).
+
+## [Demo →](http://codepen.io/tonystar/full/pJpROO/)
